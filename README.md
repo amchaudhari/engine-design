@@ -1,5 +1,5 @@
 # engine-design
-The mechanical design model to approximate mass and factor-of-safety of varioys engine components
+A mechanical design model to approximate mass and factor-of-safety of varioys engine components
 
 ## Subsystems and design interdependence 
 ![image](https://user-images.githubusercontent.com/16881472/112766351-03d58e80-8fd7-11eb-8d40-0c84ef80e790.png)
